@@ -5,6 +5,7 @@ Embed in HStack
 ```
 
 ```
+var hapticImpact = UIImpactFeedbackGenerator(style: .heavy)
 Haptics
 .soft
 .light
